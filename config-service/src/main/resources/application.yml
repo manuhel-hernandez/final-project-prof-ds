@@ -1,0 +1,14 @@
+spring:
+  application:
+    name: config-service
+  cloud:
+    config:
+      server:
+        git:
+          uri: https://github.com/manuhel-hernandez/final-prof-ds-config
+  security:
+    user:
+      name: ${CONFIG_USER}
+      password: ${CONFIG_PASSWORD}
+server:
+  port: 9000

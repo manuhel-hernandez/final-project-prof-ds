@@ -1,1 +1,1 @@
-# Proyecto final de profundización de desarrollo de software - Juanita T. y Jacobo H.
+# Proyecto final de profundización en desarrollo de software - Juanita T. y Jacobo H.
